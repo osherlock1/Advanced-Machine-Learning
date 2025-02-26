@@ -6,7 +6,11 @@ _An Advanced Course on Machine Learning (mainly Deep Learning), Tailored Toward 
 
 ## Outline
 Here is a quick (running) description of what each notebook covers:
-- `01-Understanding-Convolutions.ipynb`: An overview of what convolutions are, how to implement them in PyTorch, and a visualization exercise for several popular methods.
+- `01-understanding-convolutions.ipynb`: An overview of what convolutions are, how to implement them in PyTorch, and a visualization exercise for several popular methods.
+- `02-model-training-with-pytorch.ipynb`: A tutorial of neural network training in PyTorch.
+- `03_recurrent_neural_networks.ipynb`: An implementation of a basic Recurrent Neural Network from scratch in PyTorch.
+- `04-temporal-convolutional-networks.ipynb`: An implementation of a basic Temporal Convolutional Network from scratch in PyTorch.
+- `05-transformers.ipynb`: An implementation of a simple transformer, with encoder block only, for a regression task. 
 
 ## Contributions
 Feel free to submit a pull request for any issues or improvements! \
