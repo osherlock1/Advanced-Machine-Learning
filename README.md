@@ -10,7 +10,8 @@ Here is a quick (running) description of what each notebook covers:
 - `02-model-training-with-pytorch.ipynb`: A tutorial of neural network training in PyTorch.
 - `03-recurrent-neural-networks.ipynb`: An implementation of a basic Recurrent Neural Network from scratch in PyTorch.
 - `04-temporal-convolutional-networks.ipynb`: An implementation of a basic Temporal Convolutional Network from scratch in PyTorch.
-- `05-transformers.ipynb`: An implementation of a simple transformer, with encoder block only, for a regression task. 
+- `05-transformers.ipynb`: An implementation of a simple transformer, with encoder block only, for a regression task.
+- `06-optimization.ipynb`: A 'challenge' lab focused on regularization and normalization techniques to improve model performance. 
 
 ## Contributions
 Feel free to submit a pull request for any issues or improvements! \
